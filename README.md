@@ -45,7 +45,8 @@ Test and Validate: Perform testing to ensure the system meets functional require
 ![image](https://github.com/user-attachments/assets/b1de04ae-b9bc-4954-9f31-e86497ca170e)
 
 ## SEQUENCE DIAGRAM:
-![image](https://github.com/user-attachments/assets/0365a6c3-f246-4a23-a6b6-7e298092773c)
+![image](https://github.com/user-attachments/assets/b4114fda-e771-4be2-aea7-ce69fc60d819)
+
 
 # RESULT:
 Thus, the UML Diagrams for a Library Management System has been drawn and verified.
